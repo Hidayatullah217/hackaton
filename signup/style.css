@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+.firstNavber{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #7749f8;
+    color: white;
+    padding: 20px 40px;
+}
+
+#firstNavber{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #7749f8;
+    color: white;
+    padding: 20px 40px;
+}
